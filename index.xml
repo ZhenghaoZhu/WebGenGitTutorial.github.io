@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebGen Git Tutorial</title>
+    <link>https://WebGenGitTutorial.github.io/</link>
+    <description>Recent content on WebGen Git Tutorial</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://WebGenGitTutorial.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://WebGenGitTutorial.github.io/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://WebGenGitTutorial.github.io/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipiscing elit natoque, mattis nullam molestie libero fermentum fringilla eros, erat dictumst velit montes pulvinar nisi quam. Platea nec magna dui arcu cras nulla, himenaeos viverra metus pellentesque a rutrum, commodo lacus interdum litora leo. Duis auctor augue himenaeos curabitur donec mattis cubilia odio, facilisi rutrum fermentum torquent fusce potenti inceptos placerat, a luctus ad dignissim ultricies posuere lacus nullam, sodales pellentesque montes at elementum ridiculus id.</description>
+    </item>
+    
+  </channel>
+</rss>
